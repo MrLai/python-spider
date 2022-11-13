@@ -1,21 +1,22 @@
+# 注：2020年最新连载教程请移步：[Python Spider 2020](https://github.com/Jack-Cherish/python-spider/tree/master/2020 "Python Spider 2020")
+
 # Python Spider
 
-* 贵有恒，何必三更起五更睡；最无益，只怕一日暴十寒。
-* Python3爬虫实战：实战源码+博客讲解
-* [个人网站](http://cuijiahua.com "个人网站")
-* [CSDN博客](http://blog.csdn.net/c406495762 "CSDN博客")
-* [CSDN爬虫专栏](https://blog.csdn.net/c406495762/article/category/9268672 "爬虫专栏")<br>
-* 学习交流群【328127489】<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=e70f3fcff3761450fda9b43eadc1910dac308a962ef9e3e87941cd2c681c4bb4"><img border="0" src="https://github.com/Jack-Cherish/Pictures/blob/master/qqgroup.png" alt="Coder" title="Coder"></a><br>
-* 分享技术，乐享生活：Jack Cui公众号每周五推送“程序员欢乐送”系列资讯类文章，欢迎您的关注！
-<div align="center"><img border="0" src="https://ww2.sinaimg.cn/large/0072Lfvtly1fxuhd2t2jqj309k09kglk.jpg" alt="Coder" title="gongzhonghao" with="200" height="200"></div>
+原创文章每周最少两篇，**后续最新文章**会在[【公众号】](https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg)首发，视频[【B站】](https://space.bilibili.com/331507846)首发，大家可以加我[【微信】](https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg)进**交流群**，技术交流或提意见都可以，欢迎**Star**！
+
+<p align="center">
+  <a href="https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg" target="_blank"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
+  <a href="https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg" target="_blank"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-Jack%20Cui-lightgrey.svg" alt="公众号"></a>
+  <a href="https://space.bilibili.com/331507846"><img src="https://img.shields.io/badge/bilibili-哔哩哔哩-critical" alt="B站"></a>
+  <a href="https://www.zhihu.com/people/Jack--Cui" target="_blank"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="知乎"></a>
+  <a href="https://blog.csdn.net/c406495762" target="_blank"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
+  <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAA5gJtmezUJ6vli2hZvnN13iLnzKLpuF8gGHeS0iVlmNs/" target="_blank"><img src="https://img.shields.io/badge/toutiao-%E5%A4%B4%E6%9D%A1-important.svg" alt="头条"></a>
+  <a href="https://juejin.im/user/5ea2ca74e51d4546b50d5f9f" target="_blank"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="掘金"></a>
+</p>
 
 ## 声明
 
 * 代码、教程**仅限于学习交流，请勿用于任何商业用途！**
-
-### 文章首发声明
-
-* 文章在自己的个人网站首发，其他平台文章均属转发，如想获得最新更新进展，欢迎关注我的个人网站：http://cuijiahua.com/
 
 ## 目录
 
@@ -247,3 +248,9 @@
 ## 其它
 
  * 欢迎 Pull requests，感谢贡献。
+ 
+ 更多精彩，敬请期待！
+
+<a name="微信"></a>  <a name="公众号"></a>
+
+<img src="https://ftp.bmp.ovh/imgs/2020/07/112254f0199e3d4f.jpg" alt="wechat" width="400" height="200" align="bottom" />
